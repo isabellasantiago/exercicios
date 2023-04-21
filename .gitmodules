@@ -1,9 +1,0 @@
-[submodule "ex01"]
-    path = ex01
-    url = https://github.com/isabellasantiago/ex01.git
-[submodule "ex02"]
-    path = ex02
-    url = https://github.com/isabellasantiago/ex02.git
-[submodule "ex03"]
-    path = ex03
-    url = https://github.com/isabellasantiago/ex03.git
